@@ -59,6 +59,12 @@
         ]
       },
       {
+        "group": "Penggunaan KKP dan ATM",
+        "pages": [
+          "digital-payment/payment"
+        ]
+      },
+      {
         "group": "Pengelolaan Kontrak Mitra",
         "pages": [
           "kontrak/kontrak",
