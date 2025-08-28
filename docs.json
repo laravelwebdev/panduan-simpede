@@ -109,8 +109,9 @@
     ]
   },
   "logo": {
-    "light": "/logo/logo.svg",
-    "dark": "/logo/logo.svg"
+    "light": "https://raw.githubusercontent.com/laravelwebdev/simpede/main/public/images/logo.svg",
+    "dark": "https://raw.githubusercontent.com/laravelwebdev/simpede/main/public/images/logo.svg",
+    "href": "https://simpede.my.id"
   },
   "background": {
     "decoration": "gradient"
